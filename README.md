@@ -3,14 +3,8 @@
   <img src="Banner.png" alt="Banner Profil" width="80%">
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/username-kamu">
+  <a href="https://www.linkedin.com/in/oktora-rizka-a437b12a3/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/username-kamu">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:email-kamu@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
