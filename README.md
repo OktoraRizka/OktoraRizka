@@ -15,8 +15,9 @@
 </p>
 
 # Anyway, Welcome To My GitHub Account
-
-![Banner](Agnes.gif)
+<p align="center">
+  <img src="Agnes.gif" alt="Banner Agnes" />
+</p>
 
 Hi, I'm **Oktora Rizka**. I have been passionate about IT since vocational high school (SMK), where I started learning to build games, applications, and websites. Currently, I am a student at **Mataram University** majoring in **Informatics Engineering**.
 
