@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3e5fc,50:4fc3f7,100:1a237e&height=200&section=header&text=Oktora%20Rizka%20🌠&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20|%20Informatics%20Engineering%20Student&descSize=16&descAlignY=55" width="100%"/>
+</p>
+
 # ME RN :
 <p align="center">
   <img src="Banner.png" alt="Banner Profil" width="80%">
