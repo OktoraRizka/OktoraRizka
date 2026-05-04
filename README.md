@@ -27,7 +27,7 @@ Hi, I'm **Oktora Rizka**. I have been passionate about IT since vocational high 
 
 I am dedicated to becoming a **Game Developer**, focusing on **Godot Engine** and various other development projects. I'm glad you're here to visit my GitHub profile!
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />  
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -47,6 +47,16 @@ I am dedicated to becoming a **Game Developer**, focusing on **Godot Engine** an
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <br />
+</p>
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OktoraRizka&theme=vision-friendly-dark&hide_border=false" alt="Streak Oktora" /><br/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OktoraRizka&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy Oktora" />
 </p>
 
 <p align="center">
